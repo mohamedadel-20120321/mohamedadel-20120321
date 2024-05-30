@@ -10,11 +10,12 @@
 <p align="left"> <a href="https://twitter.com/mohamedadelmoh7" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedadelmoh7?logo=twitter&style=for-the-badge" alt="mohamedadelmoh7" /></a> </p>
 
 - Accomplished Projects
--- 🔭 (https://lgs.gov.eg/#/home) [بوابة خدمات المحليات]
+  - 🔭 (https://lgs.gov.eg/#/home) [بوابة خدمات المحليات]
 
--- 🔭 (https://nuca-services.gov.eg/#/home) [بوابة خدمات المجتمعات العمرانية]
+  - 🔭 (https://nuca-services.gov.eg/#/home) [بوابة خدمات المجتمعات العمرانية]
 
-- 🔭 I’m currently working on [بوابة خدمات المجتمعات العمرانية](https://nuca-services.gov.eg/#/home)
+- Current Projects
+  - 🔭 (https://nuca-services.gov.eg/#/home)
 
 - 💬 Ask me about **Angular, DotNet Core**
 
